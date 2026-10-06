@@ -1,0 +1,62 @@
+Artificial intelligence is the science of making computers do tasks that need human intelligence.
+Machine learning is a part of artificial intelligence that learns patterns from data.
+Generative AI can create new text, images, music, and code.
+Neural networks are made of layers of simple connected units called neurons.
+Python is a popular programming language for machine learning.
+Deep learning uses neural networks with many layers.
+Learning from data is the main idea behind machine learning.
+A model is a program that learns to make predictions from examples.
+Training data is the collection of examples that a model learns from.
+Machine learning models improve when they see more good data.
+Artificial intelligence can help doctors, teachers, and engineers.
+Generative AI models learn the patterns of text and then create new text.
+A neural network learns by changing the numbers inside it.
+Python makes it easy to write and read machine learning code.
+Deep learning models can recognize images, speech, and language.
+Learning rate controls how big each training step is.
+A language model predicts the next word or character in a text.
+Machine learning needs data, a model, and a way to measure mistakes.
+Artificial neural networks are inspired by the human brain.
+Generative AI can write stories, answer questions, and explain ideas.
+Neurons in a neural network take numbers in and give numbers out.
+Python has libraries like PyTorch and NumPy for deep learning.
+Deep learning needs a lot of data and a lot of computing power.
+Learning to code in Python is a good first step for AI.
+A loss value tells us how wrong the model is.
+Machine learning can find patterns that people do not notice.
+Artificial intelligence is used in phones, cars, and hospitals.
+Generative AI models are trained on large collections of text.
+Neural networks are trained with a method called backpropagation.
+Python code is easy to test and easy to change.
+Deep learning is a part of machine learning.
+Learning happens when the model reduces its loss.
+Training a model means showing it examples again and again.
+Machine learning models make predictions, not promises.
+Artificial intelligence does not think like a person.
+Generative AI predicts one small piece of text at a time.
+A neural network has weights, and weights are the learned numbers.
+Python is a language that many AI researchers use every day.
+Deep learning uses gradients to update the weights of a network.
+Learning from mistakes is how a neural network gets better.
+A tokenizer turns text into numbers that a model can use.
+Machine learning is not magic, it is statistics and computing.
+Artificial intelligence can be small and simple or large and complex.
+Generative AI starts with a prompt and continues the text.
+Neural networks can have millions or billions of parameters.
+Python lets beginners build a small model in a few lines.
+Deep learning models are trained on computers with powerful chips.
+Learning the basics first makes advanced models easier to understand.
+A character level model reads and writes one character at a time.
+Machine learning engineers test models before they use them.
+Artificial intelligence works best when people check its results.
+Generative AI can make mistakes, so its answers need to be checked.
+Neural networks turn input numbers into output scores.
+Python is free, open, and loved by students.
+Deep learning has changed how computers see and speak.
+Learning rate, batch size, and steps are common training settings.
+A softmax turns scores into probabilities that add up to one.
+Machine learning starts with a question and a good dataset.
+Artificial intelligence and machine learning are not the same thing.
+Generative AI models sample from probabilities to pick the next token.
+Neural networks improve slowly, one small update at a time.
+Python and PyTorch help us build neural networks from scratch.

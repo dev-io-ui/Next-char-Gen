@@ -1,0 +1,56 @@
+EVALUATION REPORT (basic qualitative evaluation, NOT a professional LLM benchmark)
+================================================================================
+Prompt: Machine
+Generated: 'Machinerkd n conte lsthathe sind s t sca ion neaiaro\nLevengrangechomoxates tom aleutharn cegeree ice mole omfPytcthulllerontsthe, uitod Pythis lelanMatiandLetuthe pericep ng ore wbanexarns orkerrke.\nGe o ons'
+Observations:
+  - Related to training data: 0% of words are real training words.
+  - Mostly unreadable gibberish.
+  - Repeated words: 0% of words are repeats.
+  - Longest chunk copied from training text: 5 characters (not memorizing long passages).
+  - Output changes between generations: yes.
+--------------------------------------------------------------------------------
+Prompt: Artificial
+Generated: 'Artificiala ar ng.\nNe topiigeacthittiteg atthes bearke.\nLers pp nglprntns mphing nges thohatwonkesusteteeindeutawinenindsks an.\nMa es cimakeers, l acinindLf t ndtam oomor todLetan arss atike cagurng tea l mat.\n'
+Observations:
+  - Related to training data: 0% of words are real training words.
+  - Mostly unreadable gibberish.
+  - Repeated words: 3% of words are repeats.
+  - Longest chunk copied from training text: 5 characters (not memorizing long passages).
+  - Output changes between generations: yes.
+--------------------------------------------------------------------------------
+Prompt: Generative
+Generated: 'Generativees atr\nAI anelle g ptizelsix ctwrs ors chomofodetA edetin ticintaGe imaocen pp tt,vedaGearg.\nDharked A it.\nMaracarer iorneangenis, leg.\nA l achengellicanesthiomToct iy.\nGPyts thineattoh lll wodeline.\n'
+Observations:
+  - Related to training data: 15% of words are real training words.
+  - Mostly unreadable gibberish.
+  - Repeated words: 4% of words are repeats.
+  - Longest chunk copied from training text: 5 characters (not memorizing long passages).
+  - Output changes between generations: yes.
+--------------------------------------------------------------------------------
+Prompt: Python
+Generated: 'Pythone ale ipetaraba nersMatind nist t dapets q les atistan ft carnig one ms surop ne pTr.\nAzeeanLe.\nMang te s win\nPy ticimateg lde ting p inealeanenge mburs leupr.\nst chionexterivGeakee t tigiz tLe us irn'
+Observations:
+  - Related to training data: 6% of words are real training words.
+  - Mostly unreadable gibberish.
+  - Repeated words: 3% of words are repeats.
+  - Longest chunk copied from training text: 6 characters (not memorizing long passages).
+  - Output changes between generations: yes.
+--------------------------------------------------------------------------------
+Prompt: Neural
+Generated: 'Neurale eacrinde inct iMchorkeato beahinge ctee tines omiToD.\nGeadeloncracimoderndaroran peupaigin wonernerng nca tine, Gee corncig Neg ichainine a daneuteTrytparksineazern desDe tinks um.\nGe m ingowins nck'
+Observations:
+  - Related to training data: 4% of words are real training words.
+  - Mostly unreadable gibberish.
+  - Repeated words: 0% of words are repeats.
+  - Longest chunk copied from training text: 5 characters (not memorizing long passages).
+  - Output changes between generations: yes.
+--------------------------------------------------------------------------------
+Prompt: Learning
+Generated: 'Learning ul ice ntixaim pr niMasizenge oragirche m llllitha mompartanginif mbytatede izehe ach m Deua teaGeusprnge.\nGesmbrochanerDepuachothelete ay f two oprneradalorache aweahonrnerlathots zerk.\nTrksasta ine'
+Observations:
+  - Related to training data: 0% of words are real training words.
+  - Mostly unreadable gibberish.
+  - Repeated words: 4% of words are repeats.
+  - Longest chunk copied from training text: 5 characters (not memorizing long passages).
+  - Output changes between generations: yes.
+--------------------------------------------------------------------------------
